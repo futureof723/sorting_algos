@@ -1,0 +1,4 @@
+# ninja log v6
+0	343	1736812677108032311	CMakeFiles/insertion_sort.dir/main.cpp.o	351319063774f2ee
+343	408	1736812677451032328	insertion_sort	6db70d7025c5c049
+1	49	1736812677109032311	CMakeFiles/insertion_sort.dir/sorting.cpp.o	a807fb5c031f753b
